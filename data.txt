@@ -1,0 +1,7 @@
+Heading - #37C1C9
+Text - Black #00000
+<a class="btn2 btn2--primary full-width" href="https://youtu.be/cKnqYLRYIDQ" target="_blank">Watch the Video Now - English</a>
+background-image: url(../images/video-bg-2400.jpg);
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKnqYLRYIDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
